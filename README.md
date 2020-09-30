@@ -14,7 +14,7 @@ Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository i
 
 ## Article
 
-- [Karena Data Gak Mungkin Bohong](https://medium.com/@geovedi/karena-data-gak-mungkin-bohong-a17ff90cef87) by Jim Geovdei (2014)
+- [Karena Data Gak Mungkin Bohong](https://medium.com/@geovedi/karena-data-gak-mungkin-bohong-a17ff90cef87) by Jim Geovedi (2014)
 
 # Dataset
 Dikelompokkan berdasarkan _task_ NLP
