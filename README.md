@@ -1,6 +1,6 @@
 ---
 title: 'Bahasa Indonesia NLP Resource'
-desc: 'Group of resources for Natural Language Processing in Indonesia language. This repository is created to help reseracher or student who doing final thesis or research about natural language processing using Indonesia language.'
+desc: 'Group of resources for Natural Language Processing in Indonesia language. This repository is created to helps reseracher or student who doing task for final thesis or research about natural language processing using Indonesia language.'
 url: 'https://ailabtelkom.github.io/resources/nlp'
 author: '@everyone'
 ---
@@ -8,7 +8,7 @@ author: '@everyone'
 
 # Bahasa Indonesia NLP Resource
 
-Group of resources for Natural Language Processing in Indonesia language. This repository is created to help reseracher or student who doing final thesis or research about natural language processing using Indonesia language.
+Group of resources for Natural Language Processing in Indonesia language. This repository is created to helps reseracher or student who doing task for final thesis or research about natural language processing using Indonesia language.
 
 # Beginning NLP
 
