@@ -8,7 +8,7 @@ author: '@everyone'
 
 # Bahasa Indonesia NLP Resource
 
-Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
+Group of _resource_ for Natural Language Processing in Indonesian Language. This repository is created to help reseracher or student who creating final thesis or research about natural language processing using Indonesian language.
 
 # Beginning NLP
 
