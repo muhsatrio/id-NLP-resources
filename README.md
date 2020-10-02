@@ -1,4 +1,8 @@
 ---
+# this is is not a regular markdown table, this a "front-matter"
+# this contain metadata to render to website
+# so please don't edit this unless you need to :)
+# https://github.com/jonschlinkert/gray-matter
 title: 'Bahasa Indonesia NLP Resource'
 desc: 'Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.'
 url: 'https://ailabtelkom.github.io/resources/nlp'
@@ -10,7 +14,7 @@ author: '@everyone'
 
 Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
 
-Group of resources for Natural Language Processing in Indonesia language. This repository is created to helps reseracher or student who doing task about final thesis or research about natural language processing using Indonesia language.
+A collection of Natural Language Processing in Bahasa Indonesia. This repository is created to helps reseracher or student who doing task about final thesis or research about natural language processing using Bahasa Indonesia.
 
 # Beginning NLP
 
